@@ -14,7 +14,9 @@ gulp pug
 gulp sass
 ```
 
+
 http://192.168.33.10/wp-login.php/
+
 wordpressにログインし、`WordPress Template`のテーマを有効化する。
 
 
