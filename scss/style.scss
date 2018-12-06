@@ -1,0 +1,18 @@
+@charset "utf-8";
+/*
+theme Name: WordPress Template
+Description: wordpress template 
+version： 1.0.0
+*/
+
+.main {
+  h1 {
+    color: red;
+    &:hover {
+      color: blue;
+    }
+  }
+  h2 {
+    color: blue;
+  }
+}
